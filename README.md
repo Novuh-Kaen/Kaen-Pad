@@ -1,2 +1,2 @@
-# Kaen-Pad
+# Kaen Pad
 Super Customizable Menu for Gorilla Tag
